@@ -89,24 +89,34 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.Reflected binary code is also known as:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "BCD code", ///// Write the option 1 inside double quotes
+                b: "Binary code", ///// Write the option 2 inside double quotes
+                c: "ASCII code",
+                d: "Gray Code",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2.Why do we use gray codes?",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
+        a: "To count the no of bits changes",                  ///// Write the option 1 inside double quotes
+        b: "Error correction",                  ///// Write the option 2 inside double quotes
+        c: "None of the Mentioned",      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+   {
+      question: "3.Gray code representation of 14 is",  ///// Write the question inside double quotes
+      answers: {
+        a: "1010",                  ///// Write the option 1 inside double quotes
+        b: "1100",                  ///// Write the option 2 inside double quotes
+        c: "1001",    
+        d: "1110"      
+      },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
-
-
         
     ];
 
