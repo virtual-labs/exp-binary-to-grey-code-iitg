@@ -1,7 +1,7 @@
 ### Components used:
 We used the following components for this experiment-
 
-IC 7486
+IC 7486 [Datasheet](https://www.iitg.ac.in/cseweb/vlab/Digital-System-Lab/pdfs/ic7486.pdf)
 
 ### How to make connection:
 After Starting the experiment first click on the Components button to get component list. Now you can Drag and Drop any component in the circuit designing area. To make connection between components, just click on the Blue bubble of any components and Drag it to another Blue bubble of the same or any other components. To delete connection or to remove any component use Double click on that component or connection.
