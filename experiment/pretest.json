@@ -1,1 +1,28 @@
-[{"question":"1.A code converter is a logic circuit that:","answers":{"a":"Inverts the given input","b":"Converts into decimal number","c":"Converts data of one type into another type","d":"None of the Mentioned"},"correctAnswer":"c"},{"question":"2.The primary use for Gray code is ","answers":{"a":"Coded representation of a shaft’s mechanical position","b":"Turning on/off software switches","c":"To represent the correct ASCII code to indicate the angular position of a shaft on rotating machinery","d":"To convert the angular position of a shaft on rotating machinery into hexadecimal code"},"correctAnswer":"a"},{"question":"3.Why is the Gray code more practical to use when coding the position of a rotating shaft?","answers":{"a":"All digits change between counts","b":"Two digits change between counts","c":"Only one digit changes between counts","d":"None of the Mentioned"},"correctAnswer":"c"}]
+[{
+	"question": "1.A code converter is a logic circuit that:",
+	"answers": {
+		"a": "Inverts the given input",
+		"b": "Converts into decimal number",
+		"c": "Converts data of one type into another type",
+		"d": "None of the Mentioned"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2.The primary use for Gray code is ",
+	"answers": {
+		"a": "Coded representation of a shaft’s mechanical position",
+		"b": "Turning on/off software switches",
+		"c": "To represent the correct ASCII code to indicate the angular position of a shaft on rotating machinery",
+		"d": "To convert the angular position of a shaft on rotating machinery into hexadecimal code"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "3.Why is the Gray code more practical to use when coding the position of a rotating shaft?",
+	"answers": {
+		"a": "All digits change between counts",
+		"b": "Two digits change between counts",
+		"c": "Only one digit changes between counts",
+		"d": "None of the Mentioned"
+	},
+	"correctAnswer": "c"
+}]
